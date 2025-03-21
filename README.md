@@ -22,10 +22,10 @@ I'm a **Mobile & Android Developer** with over 5 years of experience in designin
 
 ### 📊 GitHub Stats
 
-![Seonhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonhan&count_private=true&show_icons=true&hide=prs&theme=radical)
+![Seonhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonhan-towb&count_private=true&show_icons=true&hide=prs&theme=radical)
 
 ### 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonhan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonhan-towb&layout=compact)
 
 Thanks for visiting my profile! Let's build something amazing together. 🚀
